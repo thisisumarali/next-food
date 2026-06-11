@@ -66,7 +66,7 @@
 
   /* Add these: */
  .hero_image_wrap img {
-    max-width: 400px !important;
+    max-width: 300px !important;
   }
   .hero_inner {
     padding: 100px 20px 60px;  /* reduce top padding too */
